@@ -1,4 +1,4 @@
-# Jessica's Knowledge Linking Engine
+# Yan's Knowledge Linking Engine for Multimedia Files
 
 ```bash
 docker pull gaoyuanliang/jessica_knowledge_linking:1.0.1
@@ -39,4 +39,4 @@ password: neo4j1
 
 ## contact
 
-I am opent for a data scientist/AI engineer job at UAE. Contact me by gaoyuanliang@outlook.com
+I am opent for a data scientist/AI engineer job at UAE. Contact me by yanliang2345@outlook.com
